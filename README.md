@@ -13,10 +13,8 @@
 
 ## 学习记录
 
-### Day01 Python基础
-
 完成：
 - GitHub环境搭建
 - PyCharm配置
-- 第一个Python程序
+
 
