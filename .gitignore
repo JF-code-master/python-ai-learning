@@ -3,11 +3,11 @@ __pycache__/
 *.py[cod]
 
 # 虚拟环境
-.venv/
+../Python-Learning/.venv/
 venv/
 
 # PyCharm
-.idea/
+../PyCharmMiscProject/.idea/
 
 # 数据
 *.csv
