@@ -49,6 +49,13 @@ PyCharm 里右键脚本 → Run 就行。脚本内部用「相对本文件」的
 （见 `machine_learning/01_data_exploration.py`），所以 PyCharm 的工作目录设成什么
 都不会出现找不到文件的问题。
 
+## PyCharm 设置
+
+`.idea/` 里的 IDE 配置不进 Git（换电脑时 PyCharm 会自己重建），所以新环境里要手动做一次：
+
+- 右键 `data/` 和 `outputs/` → Mark Directory as → Excluded，这两个目录不用建索引
+- 解释器选本机装好 torch 的那个 Python 3.14
+
 ## 学习记录
 
 已完成：
