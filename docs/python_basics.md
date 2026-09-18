@@ -141,14 +141,19 @@ name=jf
       
 ```
 
-```python
+```
+python
+
 print("Hello Python")
 
 age = 20
 
 print(age)
-```
 
+
+
+
+```
 
 插入链接 [文字]（网址）  
 
@@ -181,6 +186,8 @@ $X$
 $$
 y=ax+b
 $$
+
+**可以多行输出**
 
 任务列表
 -[x] python 环境配置
